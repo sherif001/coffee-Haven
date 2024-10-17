@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Espresso", "price": 30, "image": "/images/espresso.jpg" },
+    { "id": 2, "name": "Latte", "price": 40, "image": "/images/latte.jpg" }
+  ]
+  
